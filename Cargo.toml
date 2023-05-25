@@ -1,0 +1,14 @@
+[workspace]
+members = [
+    "are_they_the_same",      # https://www.codewars.com/kata/550498447451fbbd7600041c
+    "break_camel_case",       # https://www.codewars.com/kata/5208f99aee097e6552000148
+    "help_the_bookseller",    # https://www.codewars.com/kata/54dc6f5a224c26032800005c
+    "human_readable_time",    # https://www.codewars.com/kata/52685f7382004e774f0001f7
+    "multiplication_table",   # https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08
+    "rectangle_into_squares", # https://www.codewars.com/kata/55466989aeecab5aac00003e
+    "reverse_or_rotate",      # https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991
+    "string_incrementer",     # https://www.codewars.com/kata/54a91a4883a7de5d7800009c
+    "take_the_derivative",    # https://www.codewars.com/kata/5963c18ecb97be020b0000a2
+    "tortoise_racing",        # https://www.codewars.com/kata/55e2adece53b4cdcb900006c
+    "tribonacci_sequence",    # https://www.codewars.com/kata/556deca17c58da83c00002db
+]
